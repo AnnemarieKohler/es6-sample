@@ -1,3 +1,3 @@
-import add from './app.js';
+const {add} = require('./app.js');
 
 console.log(add(1));

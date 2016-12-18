@@ -1,1 +1,5 @@
-export default x => x + 1
+const add = x => x + 1;
+
+module.exports = {
+	add
+}
